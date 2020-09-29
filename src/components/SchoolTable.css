@@ -1,0 +1,28 @@
+td {
+  font-size: 0.826rem;
+  font-family: "Roboto Slab", sans-serif;
+}
+
+.app {
+  background-color: #e7f1f1;
+  min-height: 100vh;
+}
+
+.handle-sort {
+  cursor: pointer;
+  width: 100%;
+  border: none;
+  outline: none;
+  color: rgb(54, 53, 53);
+  background: #cad3d3;
+  font-weight: bold;
+  font-family: "Lato", sans-serif;
+  box-shadow: 0 1px 5px black;
+}
+
+.loading {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
